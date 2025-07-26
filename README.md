@@ -1,16 +1,14 @@
 Hola! Soy Juan Pablo Favale 👋!
 
-<!--
-**juanpablofavale/juanpablofavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Te presento mi [Portfolio](https://juanpablofavale.github.io/Maqueta-Portfolio-2/) con algunos proyectos e ideas llevadas a cabo por mi.
 
-Here are some ideas to get you started:
+Actualmente hago soporte técnico para el que tengo desarrollados atajos en AutoHotKey para facilitar mi trabajo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente aprendo C# para crear aplicaciones de escritorio.
+
+Mi stack de gusto es *MERN* con **React** para el front y **Node** en el backend.
+
+  
+
+  
+![**JPF**](https://github.com/juanpablofavale/PruebasMarkDown/blob/main/Firma.png?raw=true)
